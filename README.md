@@ -1,5 +1,5 @@
 # README
-
+This is the static page without any cascading stylesheet (CSS). It would contain normal about page listing about the basic idea of Pardesi Jobs.
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
